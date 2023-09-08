@@ -1,0 +1,22 @@
+{
+  "name": "@lbxa/rust-node-interop-linux-arm64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "rust-node-interop.linux-arm64-gnu.node",
+  "files": [
+    "rust-node-interop.linux-arm64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "git@github.com:lbxa/rust-node-interop.git",
+  "libc": [
+    "glibc"
+  ]
+}

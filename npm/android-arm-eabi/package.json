@@ -1,0 +1,19 @@
+{
+  "name": "@lbxa/rust-node-interop-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "rust-node-interop.android-arm-eabi.node",
+  "files": [
+    "rust-node-interop.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "git@github.com:lbxa/rust-node-interop.git"
+}

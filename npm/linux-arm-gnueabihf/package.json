@@ -1,0 +1,19 @@
+{
+  "name": "@lbxa/rust-node-interop-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "rust-node-interop.linux-arm-gnueabihf.node",
+  "files": [
+    "rust-node-interop.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "git@github.com:lbxa/rust-node-interop.git"
+}
